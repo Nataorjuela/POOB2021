@@ -78,6 +78,7 @@ public class Mission
        if (row<101 && row>0 && column<101 && column>0){ 
         matriz[row-1][column-1]+=1;
         this.matriz=matriz;
+        //cambiar posicion del ok 
          }
        else {
         ok=false;
@@ -86,16 +87,17 @@ public class Mission
    }
    /**
     * Este método copia el estado actual de la matriz de la bodega en la zona de plan de robo.
+    * 
     */
    public void copy(){
-        int [][] matrizLadron=new int[width][length];
+       matrizLadron=new int[width][length];
        for(int i=0;i<width;i++){
            for(int j=0;j<length;j++){
                matrizLadron[i][j]=matriz[i][j];
         }
        }
-       this.matrizLadron=matrizLadron;
        ok=true;
+       //llamar al metododo para dibujar las imagenes
     }
     /**
      * Este método roba una caja de la bodega en la posicion indicada.
@@ -110,13 +112,16 @@ public class Mission
        matrizLadron[row-1][column-1]=valorRobado;
        ok=true;
      }
-     /**
-      * Este método devuelve la caja robada a la bodega.
-      */
+     //invocar al metodo que refresca las imagenes
+     //steal de tupla llama al metodo steal(row,column)
+    /**
+     * Este método devuelve la caja robada a la bodega.
+     */
    public void returnn(){
        matrizLadron[rowRobo-1][columnRobo-1]-=valorRobado;
        matriz[rowRobo-1][columnRobo-1]+=valorRobado;
        ok=true;
+       //dibujar ; ambas zonas mostrarlas al tiempo
     }
     /**
      * Este método Reorganiza las filas de la matriz de manera ascendente.
@@ -165,7 +170,8 @@ public class Mission
        this.cajasSide=side(matriz,cajasSide);  
        this.cajasTop=top(matriz,cajasTop);
        ok=true;
-       return matriz;    
+       return matriz; 
+       //crear metodo para recorrer matrices
     }
     /**
     * Este método Consulta las cajas que hay en el plan de robo, mostrando su  matriz y vistas de las camaras.
@@ -365,7 +371,7 @@ public class Mission
        ok=true;
    }
    /**
-    * Este método termian el simulador.
+    * Este método termina el simulador.
     */
     public void finish(){
         System.exit(0);
