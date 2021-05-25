@@ -30,7 +30,12 @@ ___
 
 ```sh
 1.La primer prueba que se realizara es sobre la interfaz, se mostrara que la interfaz es amigable para el usuario
-y que sus botones redirigen a sus evento correspondientes:
-![image]
+y que sus botones se redirigen a sus evento correspondientes:
 ```
+
+- menú del juego
+
+![image](https://github.com/Nataorjuela/POOB2021/blob/Master/menu.png)
+
+![image]()
 
