@@ -33,7 +33,7 @@ ___
 y que sus botones se redirigen a sus evento correspondientes:
 ```
 
-- menú del juego
+- menú del juego 
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/menu.png)
 
@@ -41,11 +41,34 @@ y que sus botones se redirigen a sus evento correspondientes:
 
 ![image]( https://github.com/Nataorjuela/POOB2021/blob/Master/instrucciones.png)
 
--Al seleccionar volver, regresamos al menú del juego
+- Al seleccionar volver, regresamos al menú del juego :leftwards_arrow_with_hook:
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/menu.png)
 
-- Cuando seleccionamos el boton controles 
+- Cuando seleccionamos el boton controles :video_game:
 
+![image](https://github.com/Nataorjuela/POOB2021/blob/Master/controles.png)
+
+- Al seleccionar play nos redirige al modo de juego :arrow_forward:
+
+![image](https://github.com/Nataorjuela/POOB2021/blob/Master/mododejuego.png)
+
+- Aqui encontramos 3 opciones(1 jugador,2 jugadores y jugador vs pc);
+**al seleccionar 1 o 2 jugadores:**
+nos pide seleccionar el personaje con el que deseamos jugar e ingresar wl nombre del usuario
+
+![image](https://github.com/Nataorjuela/POOB2021/blob/Master/selecciondepers.png)
+
+- Al oprimir ok, podemos iniciar el juego
+
+![image](https://github.com/Nataorjuela/POOB2021/blob/Master/play.png)
+
+- Junto con inicio del juego nos aparece su puntaje correspondiente :trophy:
+
+![image](https://github.com/Nataorjuela/POOB2021/blob/Master/puntaje.png)
+
+- En caso de perder nos muestra un mensaje :mailbox_with_no_mail:
+
+![image](https://github.com/Nataorjuela/POOB2021/blob/Master/perdio.png)
 
 
