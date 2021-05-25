@@ -37,5 +37,15 @@ y que sus botones se redirigen a sus evento correspondientes:
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/menu.png)
 
-![image]()
+- Al seleccionar el boton instrucciones nos aparece lo siguiente:
+
+![image]( https://github.com/Nataorjuela/POOB2021/blob/Master/instrucciones.png)
+
+-Al seleccionar volver, regresamos al menú del juego
+
+![image](https://github.com/Nataorjuela/POOB2021/blob/Master/menu.png)
+
+- Cuando seleccionamos el boton controles 
+
+
 
