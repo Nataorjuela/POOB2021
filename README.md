@@ -1,5 +1,5 @@
 # POOB2021
-***PROYECTO FINAL ***
+***PROYECTO FINAL***
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/Imagen1.png)
 
