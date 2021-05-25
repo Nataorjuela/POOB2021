@@ -11,7 +11,8 @@ Nuestra versión ***SnOOPe***, tiene las siguientes novedades:
 
 :snake: Personalización completa de la serpiente.
 
-:video_game: Tres modos de juego: 
+:video_game: Tres modos de juego:
+___
 
 :runner: Un jugador 
 
@@ -37,29 +38,29 @@ y que sus botones se redirigen a sus evento correspondientes:
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/menu.png)
 
-- Al seleccionar el boton instrucciones nos aparece lo siguiente:
+- Al seleccionar el boton "instrucciones" nos aparece lo siguiente:
 
 ![image]( https://github.com/Nataorjuela/POOB2021/blob/Master/instrucciones.png)
 
-- Al seleccionar volver, regresamos al menú del juego :leftwards_arrow_with_hook:
+- Al seleccionar "volver", regresamos al menú del juego :leftwards_arrow_with_hook:
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/menu.png)
 
-- Cuando seleccionamos el boton controles :video_game:
+- Cuando seleccionamos el boton "controles" :video_game:
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/controles.png)
 
-- Al seleccionar play nos redirige al modo de juego :arrow_forward:
+- Al seleccionar "play" nos redirige al modo de juego :arrow_forward:
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/mododejuego.png)
 
 - Aqui encontramos 3 opciones(1 jugador,2 jugadores y jugador vs pc);
 **al seleccionar 1 o 2 jugadores:**
-nos pide seleccionar el personaje con el que deseamos jugar e ingresar wl nombre del usuario
+nos pide seleccionar el personaje con el que deseamos jugar e ingresar el nombre del usuario
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/selecciondepers.png)
 
-- Al oprimir ok, podemos iniciar el juego
+- Al oprimir "ok", podemos iniciar el juego
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/play.png)
 
