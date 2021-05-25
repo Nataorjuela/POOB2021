@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CelulaEspecial
+comment0.text=Informacion\ sobre\ una\ c\u00E9lula<br>\r\n<b>(automata,fila,columna,edad,\ estado,\ estadoSigiente,\ color)</b><br>\r\nLas\ celulas\ conocenel\ automata\ en\ la\ que\ viven,\ la\ posici\u00F3n\ en\ la\ que\ est\u00E1n\ en\ ese\ aut\u00F3mata,su\ edad,\ su\ estado\ actual\ y\ el\ estado\ que\ van\ a\ tomar\ en\ el\ siguiente\ instante.<br>\r\nTodas\ las\ c\u00E9lulas\ son\ de\ color\ azul<br>\r\n
+comment1.params=automata\ fil\ col
+comment1.target=CelulaEspecial(AutomataCelular,\ int,\ int)
+comment2.params=
+comment2.target=void\ isSola()
+comment3.params=vecinas
+comment3.target=int\ solos(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ decida()
+numComments=5

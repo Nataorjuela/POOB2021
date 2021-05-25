@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Flota
+comment1.params=dLon\ dLat
+comment1.target=void\ avance(int,\ int)
+comment1.text=\r\n\ Este\ m\u00E9todo\ mueve\ todas\ las\ m\u00E1quinas\ la\ distancia\ definida\r\n\ El\ mundo\ tablero\ es\ circular.\ Longitud\ [0,180]\ Latitud\ [-90,90].\ Coordenadas.\r\n\ @param\ dLon\ -\ avance\ en\ longitud\r\n\ @param\ dLat\ -\ avance\ en\ latitud\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ maquinasDebiles()
+comment2.text=\r\n\ Consulta\ las\ m\u00E1quinas\ d\u00E9biles\ de\ una\ flota\ \r\n\ Un\ barco\ es\ d\u00E9bil\ si\ tienen\ menos\ de\ cinco\ marinos;\ un\ avi\u00F3n,\ si\ no\ tiene\ piloto\ principal;\ \r\n\ y\ un\ portaaviones\ si\ es\ un\ barco\ d\u00E9bil\ o\ alguno\ de\ sus\ aviones\ en\ aire\ es\ d\u00E9bil.\r\n\ @return\ \r\n
+numComments=3

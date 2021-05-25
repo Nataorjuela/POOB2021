@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Maquina
+comment1.params=dlong\ dlat
+comment1.target=void\ avance(int,\ int)
+comment2.params=
+comment2.target=boolean\ esDebil()
+numComments=3

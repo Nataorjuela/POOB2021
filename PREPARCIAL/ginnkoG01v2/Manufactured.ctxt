@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Manufactured
+comment1.params=units
+comment1.target=void\ unitsSold(int)
+comment2.params=
+comment2.target=int\ available()
+comment2.text=\r\n\ Calcula\ el\ n\u00FAmero\ de\ unidades\ que\ se\ pueden\ vender\ del\ producto\r\n\ @return\ int\ unidades\ que\ se\ pueden\ vender\ \r\n\ @exception\ GinnkoException\r\n\ AVAILABLE_ERROR\ Si\ no\ es\ posible\ calcular\ por\ error\ en\ los\ datos\ (existencias\ negativas\ o\ producto\ mal\ definido).\r\n\ PRICE_PROBLEM\ Si\ el\ producto\ no\ se\ puede\ vender\ porque\ todav\u00EDa\ no\ se\ conoce\ su\ precio\r\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Message
+comment0.text=\r\n\ Esta\ clase\ permite\ saber\ si\ un\ mensaje\ fue\ leido,\ y\ permite\ eliminar\ un\ mensaje\ notificando\ que\ fue\ eliminado.\r\n
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=boolean\ isRead()
+comment3.params=
+comment3.target=boolean\ deleteMessage()
+comment3.text=\r\n\ este\ m\u00E9todo\ elimina\ un\ mensaje\ notificandoq\ mue\ fue\ eliminado.\r\n\ @return\ True\ si\ el\ mensaje\ fue\ eliminado.\r\n
+numComments=4

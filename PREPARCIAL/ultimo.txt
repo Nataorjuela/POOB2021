@@ -1,0 +1,41 @@
+1. ¿Qué significa el modificador final? (Detalle el significado considerando : clases, atributos y métodos con un ejemplo)
+
+el modificador final existe con el proposito de decir que ya no variara mas en su funcionamiento, es decir ahora sera una constante,
+en clase: se dice que una clase es final cuando todos sus metodos y atributos no se deberian de modificar si es que esta permite herencia.
+en atributos: dice que un atributo es final para que no sea modificado dentro ni fuera de la clase.
+y los metodos finales son usados mas que todo cuando hay herencia para decir que los hijos que hereden estos metodos no los puedan modificar. 
+
+
+2. ¿Cuáles son las acciones asociadas a las excepctiones? ¿Cómo se diseñan? ¿Cómo se implementan en java? Explique con un ejemplo
+
+son 3 capturar, lanzar, tratar. 
+estan se diseñan en los diagramas de secuencia usando como una nota de color rojo diciendo el nombre del posible error y apuntando en que parte de la solucion podria surgir. 
+
+capturar: 
+ se usa la palabra reservada catch
+lanzar: 
+ en el metodo se coloca la palabra throws NombreDeClaseException{}
+tratar:
+ try
+catch
+finally
+
+se implementan creando una clase para manejar los errores y se invocan con la palabra throws 
+
+ejemplo:
+
+if (divisor==0){
+	throe new MathException("divisor en 0 ")		
+}
+
+ejemplo 2:
+
+try{
+	for (int i=0; i<10;i++){
+		System.out.println(i);
+	}
+}catch(IndexException e){
+	for (int i=0; i<9;i++){
+		System.out.println(i);
+	}
+	}

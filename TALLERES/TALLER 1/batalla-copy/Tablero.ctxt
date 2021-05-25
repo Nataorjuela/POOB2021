@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=Tablero()
+comment1.text=\r\n\ Constructo\ de\ la\ clase\ Tablero\r\n
+comment2.params=punt
+comment2.target=void\ setPuntaje(java.util.ArrayList)
+comment2.text=\r\nEste\ m\u00E9todo\ modifica\ el\ valor\ del\ puntaje\ el\ cual\ se\ obtiene\ con\ cada\ elemento\ de\ gerra(potaAvion,barco\ y\ avion)\r\n@parameter\ ArrayList\ punt\ asigna\ el\ nuevo\ puntaje\ del\ juego.\r\n\r\n
+numComments=3

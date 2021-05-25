@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Chat
+comment0.text=\r\n\ Esta\ clase\ permite\ crear\ un\ chat,\ eliminarlo\ y\ encontrarlo.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=java.util.ArrayList\ getMembers()
+comment3.params=msgId
+comment3.target=boolean\ deleteMessage(int)
+comment3.text=\r\n\ Delete\ a\ message\ specifying\ the\ message\u2019s\ id.\r\n\ @param\ \ msgId,\ Id\ of\ the\ message\ to\ delete.\r\n\ @return\ True\ if\ the\ message\ could\ be\ deleted,\ False\ otherwise.\r\n
+comment4.params=msgId
+comment4.target=Message\ findMessage(int)
+comment4.text=\r\n\ Find\ a\ message\ specific\r\n\ @param\ msgId,Id\ of\ the\ Message\ which\ the\ message\ \r\n\ @return\ encontrado,\ Message\ \r\n
+numComments=5

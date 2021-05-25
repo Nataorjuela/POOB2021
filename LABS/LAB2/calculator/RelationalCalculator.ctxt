@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RelationalCalculator
+comment0.text=\ Calculator.java\r\n\ @author\ ESCUELA\ 2021-1\r\n
+comment1.params=
+comment1.target=RelationalCalculator()
+comment2.params=attributes
+comment2.target=void\ add(java.lang.String[])
+comment3.params=attributes\ tuples
+comment3.target=void\ add(java.lang.String[],\ java.lang.String[][])
+comment4.params=
+comment4.target=int\ size()
+comment5.params=
+comment5.target=java.lang.String\ consult()
+comment5.text=Consult\ the\ top\ of\ the\ stack
+comment6.params=
+comment6.target=void\ delete()
+comment7.params=tuples
+comment7.target=void\ insert(java.lang.String[][])
+comment8.params=operator
+comment8.target=void\ calculate(char)
+comment8.text=\r\n\ set\ operation\:\ 'u'\ (union),\ 'i'\ (intersection),\ 'd'\ (difference)\r\n\ relational\ operation\:\ \ 'p'\ (projection),\ 's'\ (selection),\ 'j'\ (natural\ join)\ ,\ 'r'\ (rename)\r\n\ To\ project\ and\ rename,\ the\ attributes\ are\ at\ the\ top\ of\ the\ stack.\r\n\ \ \ \ +\ To\ select,\ the\ attributes\ and\ values\ are\ at\ the\ top\ of\ the\ row.\ \ \r\n\ If\ the\ operation\ cannot\ be\ done,\ the\ stack\ is\ not\ modified.\r\n
+comment9.params=
+comment9.target=boolean\ ok()
+comment9.text=Indicates\ if\ the\ last\ action\ was\ successful
+numComments=10

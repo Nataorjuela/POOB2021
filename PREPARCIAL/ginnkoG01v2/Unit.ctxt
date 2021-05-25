@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Unit
+comment1.params=
+comment1.target=boolean\ sold()
+comment2.params=
+comment2.target=int\ getUnitPrice()
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Chat
+comment1.params=tags
+comment1.target=void\ tag(java.util.ArrayList)
+comment1.text=\r\n\ Asocia\ las\ etiquetas\ con\ los\ miembros.\r\n\ @param\ tags-\ ArrayList<Tag>\r\n
+numComments=2

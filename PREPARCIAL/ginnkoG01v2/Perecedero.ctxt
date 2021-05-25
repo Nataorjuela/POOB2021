@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Perecedero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Perecedero\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Perecedero()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Perecedero\r\n
+comment2.params=units
+comment2.target=void\ unitsSold(int)
+comment3.params=
+comment3.target=int\ available()
+numComments=4

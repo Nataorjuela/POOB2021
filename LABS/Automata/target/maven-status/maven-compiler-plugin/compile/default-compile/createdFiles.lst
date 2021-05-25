@@ -1,0 +1,15 @@
+domain\Celula.class
+presentation\AutomataGUI$1.class
+presentation\FotoAutomata.class
+domain\AutomataCelular.class
+presentation\AutomataException.class
+presentation\AutomataGUI.class
+domain\Elemento.class
+presentation\AutomataGUI$2.class
+domain\CelulaMala.class
+presentation\AutomataGUI$3.class
+domain\Ser.class
+presentation\AutomataGUI$4.class
+domain\Calefactores.class
+presentation\AutomataGUI$5.class
+domain\CelulaEspecial.class

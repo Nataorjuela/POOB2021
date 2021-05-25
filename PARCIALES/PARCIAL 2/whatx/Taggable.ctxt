@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Taggable
+comment0.text=\r\n\ Le\ permite\ configurar\ diferentes\ etiquetas\ para\ agrupar\ elementos\ relacionados\ con\ temas\ en\ com\u00FAn\ (Ej\:\ proveedores,\r\nclientes\ premium,\ entre\ otras).\ Se\ podr\u00E1n\ relacionar\ chats\ y\ otros\ usuarios\ a\ las\ etiquetas\ definidas,\ teniendo\ en\ cuenta\:\r\n\u25CB\ De\ cada\ etiqueta\ se\ define\:\ nombre\ y\ color.\r\n\u25CB\ No\ pueden\ existir\ etiquetas\ con\ el\ mismo\ nombre\ (criterio\ de\ unicidad).\r\n\u25CB\ Cada\ empresa\ configura\ sus\ propias\ etiquetas.\r\n\r\n
+comment1.params=
+comment1.target=Taggable()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Taggable\r\n
+comment2.params=tags
+comment2.target=void\ tag(java.util.ArrayList)
+comment2.text=\r\n\ Asocia\ las\ etiquetas\ que\ ingresan\ con\ las\ ya\ guardadas.\r\n\ @param\ tags-\ ArrayList<Tag>\r\n
+numComments=3

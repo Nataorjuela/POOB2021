@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Product
+comment1.params=units
+comment1.target=void\ unitsSold(int)
+comment1.text=\r\n\ Actualiza\ los\ inventarios\ considerando\ las\ unidades\ vendidas\r\n\ (Precondicion\:\ existen\ suficientes\ existencias\ para\ hacer\ la\ actualizacion)\r\n\ @param\ units\ numero\ de\ unidades\ vendidas\r\n
+comment2.params=
+comment2.target=int\ available()
+comment2.text=\r\n\ Calcula\ el\ n\u00FAmero\ de\ unidades\ que\ se\ pueden\ vender\ del\ producto\r\n\ @return\ int\ unidades\ que\ se\ pueden\ vender\r\n\r\n
+numComments=3

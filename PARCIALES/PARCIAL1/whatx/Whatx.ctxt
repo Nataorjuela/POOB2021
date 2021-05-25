@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Whatx
+comment0.text=\r\n\ Esta\ clase\ es\ para\ poder\ utilizar\ Whatsapp\ desde\ consola\ en\ servidores\ que\ no\ tienen\ interfaz\ gr\u00E1fica.\r\n\ INVARIANTE\:dentro\ del\ ArrayList\ chats\ ningun\ chat\ tiene\ el\ mismo\ chatName.\r\n
+comment1.params=chatName\ msgId
+comment1.target=boolean\ deleteMessage(java.lang.String,\ int)
+comment1.text=\r\n\ Delete\ a\ message\ specifying\ the\ chat\ name\ and\ the\ message\u2019s\ id.\r\n\ @param\ chatName,\ Name\ of\ the\ chat\ which\ the\ message\ is\ for\r\n\ @param\ \ msgId,\ Id\ of\ the\ message\ to\ delete.\r\n\ @return\ True\ if\ the\ message\ could\ be\ deleted,\ False\ otherwise.\r\n
+comment2.params=chatName
+comment2.target=Chat\ findChat(java.lang.String)
+comment2.text=\r\n\ Find\ a\ chat\ specific\r\n\ @param\ chatName,\ Name\ of\ the\ chat\ which\ the\ message\ is\ for\r\n\ @return\ encontrado,\ Chat\ \r\n
+numComments=3

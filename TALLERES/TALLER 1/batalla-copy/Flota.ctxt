@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Flota
+comment1.params=
+comment1.target=boolean\ getModificar()
+comment1.text=\r\n\ Este\ m\u00E9todo\ devuelve\ el\ valor\ verdadero\ o\ falso\ para\ identificar\ si\ una\ flota\ se\ puede\ modificar.\r\n\ @return\ boolean\ el\ cual\ es\ el\ identificador\ para\ saber\ si\ se\ puede\ \ modificar\ la\ flota.\r\n
+numComments=2
