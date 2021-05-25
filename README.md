@@ -26,3 +26,11 @@ poderes
 
 **PRUEBAS DE ACEPTACIÓN:**
 ___
+
+
+```sh
+1.La primer prueba que se realizara es sobre la interfaz, se mostrara que la interfaz es amigable para el usuario
+y que sus botones redirigen a sus evento correspondientes:
+![image]
+```
+
