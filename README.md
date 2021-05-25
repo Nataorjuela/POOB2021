@@ -71,5 +71,22 @@ nos pide seleccionar el personaje con el que deseamos jugar e ingresar el nombre
 - En caso de perder nos muestra un mensaje :mailbox_with_no_mail:
 
 ![image](https://github.com/Nataorjuela/POOB2021/blob/Master/perdio.png)
+___
 
+**RETROSPECTIVA**
+___
+**¿Cuál fue el tiempo total invertido en el proyecto por cada uno de ustedes? (Horas/ Hombre)**
+ 
+ 80 Horas para todo el proyecto
 
+**¿Cuál es el estado actual del proyecto? ¿Por qué? (Para cada método incluya su estado)**
+Faltaron las pruebas y un modo de juego
+
+**Considerando las prácticas XP del laboratorio de hoy ¿por qué consideran que son importante?**
+Programming pair, debido a que el proyecto se hizo siguiendo el estandar de codificacion a par
+
+**¿Cuál consideran fue su mayor logro? ¿Por qué? ¿Cuál consideran que fue su mayor problema? ¿Qué hicieron para resolverlo?**
+El mayor logro fue lograr todas funcionalidades
+
+**¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?**
+Como equipo supismos discutir ideas y opiniones sobre el proyecto.
